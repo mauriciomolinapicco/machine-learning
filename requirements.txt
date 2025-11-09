@@ -1,0 +1,16 @@
+# Núcleo científico
+numpy>=1.26
+pandas>=2.2
+scipy>=1.13
+
+# Machine Learning
+scikit-learn>=1.5
+
+# Visualización
+matplotlib>=3.9
+seaborn>=0.13
+
+# Jupyter y entorno interactivo
+jupyterlab>=4.2
+ipykernel>=6.29
+
